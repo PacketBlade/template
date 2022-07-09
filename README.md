@@ -1,9 +1,9 @@
 <!--
-SPDX-FileCopyrightText: 2022 Sidings Media <bladerouter@sidingsmedia.com>
+SPDX-FileCopyrightText: 2022 Sidings Media <packetrouter@sidingsmedia.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# Blade router
+# Packet Router
 Template repository
 
 ## Licence
